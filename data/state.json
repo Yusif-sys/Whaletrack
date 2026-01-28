@@ -6,19 +6,19 @@
       "address": "0x1234567890abcdef1234567890abcdef12345678",
       "totalVolume": 0,
       "tradeCount": 0,
-      "lastSeenTs": 1769614001
+      "lastSeenTs": 1769615604
     },
     {
       "address": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
       "totalVolume": 0,
       "tradeCount": 0,
-      "lastSeenTs": 1769614001
+      "lastSeenTs": 1769615604
     },
     {
       "address": "0xfeedfeedfeedfeedfeedfeedfeedfeedfeedfeed",
       "totalVolume": 0,
       "tradeCount": 0,
-      "lastSeenTs": 1769614001
+      "lastSeenTs": 1769615604
     }
   ]
 }
