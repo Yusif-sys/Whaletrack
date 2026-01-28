@@ -1,0 +1,15 @@
+{
+  "whaleMode": "dynamic",
+  "staticWhalesFile": "whales.static.json",
+  "whaleRefreshIntervalMs": 300000,
+  "pollIntervalMs": 5000,
+  "minTradeNotional": 100,
+  "healthLogIntervalMs": 60000,
+  "polymarketBaseUrl": "https://gamma-api.polymarket.com",
+  "telegram": {
+    "maxQueueSize": 200,
+    "initialRetryDelayMs": 1000,
+    "maxRetryDelayMs": 30000
+  }
+}
+
